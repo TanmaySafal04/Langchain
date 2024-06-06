@@ -1,2 +1,2 @@
 # Updated-Langchain
-Implementation Credit to Krih Naik
+Implementation Credit to Krish Naik
